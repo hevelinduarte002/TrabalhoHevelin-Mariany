@@ -1,0 +1,28 @@
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\bin\Debug\net8.0\Trabalho.exe
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\bin\Debug\net8.0\Trabalho.deps.json
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\bin\Debug\net8.0\Trabalho.dll
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\bin\Debug\net8.0\Trabalho.pdb
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.dll
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\refint\Trabalho.dll
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.pdb
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+C:\Users\P230261\OneDrive - REDE LIUS AGOSTINIANOS\ProgramacaoEstruturada\Trabalho\obj\Debug\net8.0\ref\Trabalho.dll
+C:\Users\marya\Downloads\Trabalho\Trabalho\bin\Debug\net8.0\Trabalho.exe
+C:\Users\marya\Downloads\Trabalho\Trabalho\bin\Debug\net8.0\Trabalho.deps.json
+C:\Users\marya\Downloads\Trabalho\Trabalho\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+C:\Users\marya\Downloads\Trabalho\Trabalho\bin\Debug\net8.0\Trabalho.dll
+C:\Users\marya\Downloads\Trabalho\Trabalho\bin\Debug\net8.0\Trabalho.pdb
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.dll
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\refint\Trabalho.dll
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.pdb
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+C:\Users\marya\Downloads\Trabalho\Trabalho\obj\Debug\net8.0\ref\Trabalho.dll
