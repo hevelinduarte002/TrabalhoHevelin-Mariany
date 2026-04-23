@@ -11,3 +11,6 @@ Para o funcionamento do jogo, foram utilizadas estruturas condicionais (if e els
 Além disso, foi implementado um laço de repetição (while) que mantém o jogo em execução até que o jogador acerte o número ou decida sair digitando 0. O sistema também oferece a opção de reiniciar o jogo ao final de cada partida, tornando a aplicação mais interativa. Outro ponto importante é a utilização de uma função específica para validar a entrada do usuário, garantindo que apenas valores numéricos dentro do intervalo permitido sejam aceitos e evitando erros durante a execução.
 
 Por fim, o projeto atendeu aos requisitos propostos, apresentando um código organizado, funcional e de fácil compreensão. A atividade contribuiu para o aprendizado prático dos conceitos abordados, além de incentivar a resolução de problemas e o desenvolvimento de boas práticas de programação. O resultado final foi um jogo simples, porém eficiente, demonstrando a correta aplicação das estruturas de controle em C#.
+
+Apresentação do projeto:
+https://canva.link/2x5l1sf5jrb7402
